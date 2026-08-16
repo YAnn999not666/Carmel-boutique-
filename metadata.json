@@ -1,0 +1,6 @@
+{
+  "name": "Boutique du carmel",
+  "description": "Application d'enregistrement des ventes et caisse pour la Boutique du Carmel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
